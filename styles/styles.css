@@ -1,19 +1,32 @@
 * {
   box-sizing: border-box;
+  font-family: 'Arial', sans-serif;
 }
 
 .main-page {
   border: 3px solid black;
   text-align: center;
   background-color: lightcoral;
-  margin: 5px;
+  margin: 20px auto;
 }
 
 .main-title {
-  border-bottom: 10px solid whitesmoke;
+  border-bottom: 5px solid whitesmoke;
   margin: 10px auto;
 }
 
 .intro {
-  border-bottom: 10px solid whitesmoke;
+  border-bottom: 5px solid whitesmoke;
+}
+
+.starter {
+  border: 5px solid whitesmoke;
+}
+
+.main {
+  border: 5px solid whitesmoke;
+}
+
+.dessert {
+  border: 5px solid whitesmoke;
 }
