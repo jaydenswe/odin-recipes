@@ -30,3 +30,20 @@
 .dessert {
   border: 5px solid whitesmoke;
 }
+
+.main-header {
+  color:firebrick;
+}
+
+ul {
+  background: cornflowerblue;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+ol {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
